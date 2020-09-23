@@ -1,0 +1,14 @@
+Most of our client-server applications, especially for newbies like me, the system requires that the server be running first before the client will be opened.
+ 
+This example will show a POSSIBLE (I do believe there are other ways out there c",)) way for a client to attempt to "CONNECT" to the server if the client is run first before the server or it will attempt a "RE-CONNECT" to the server
+in the event that the server will crash or back-down while both are running.
+
+Just an idea. Hope this helps.  I appreciate your comments and suggestions and a possible vote if appropriate.
+
+
+Thanks!!!
+
+
+PS
+
+If you have a better IDEA or PROCEDURE, pls do let me know since I need this kind of feature for my project. Thanks!
